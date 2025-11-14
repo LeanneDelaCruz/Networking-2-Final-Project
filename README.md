@@ -1,4 +1,4 @@
-# Networking-2-Final-Project
+# Networking-2-Final-Project (Brewing Safe Connections: A Network Security Plan for a Coffee-Computer Shop)
 Implementing a secure and segmented network for a small organization using VLANs, OSPF, DHCP, ACLs, and NAT.
 
 ## Overview
